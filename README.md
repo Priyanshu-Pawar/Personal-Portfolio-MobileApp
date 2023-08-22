@@ -30,7 +30,7 @@ Thank you for your interest in forking and customizing my Personal Portfolio App
 - Navigate to your desired directory using the `cd` command.
 - Run the following command to clone your forked repository:
   
-   git clone https://github.com/your-username/your-forked-repo.git
+   git clone https://github.com/Priyanshu-Pawar/Personal-Portfolio-MobileApp.git
 
 3. Open the Project in Android Studio:
 - Launch Android Studio.
